@@ -2,9 +2,9 @@
   "name": "learn-you-node",
   "version": "1.0.0",
   "description": "",
-  "main": "program.js",
+  "main": "ex1.js",
   "scripts": {
-    "start": "nodemon program.js"
+    "start": "node ex1.js"
   },
   "author": "",
   "license": "ISC",
